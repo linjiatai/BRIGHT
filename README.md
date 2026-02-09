@@ -1,1 +1,3 @@
-# BRIGHT
+# BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology
+
+code coming soon...
